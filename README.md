@@ -1,2 +1,14 @@
-# cs415-2019-fall
-Livia's code for her beautiful students
+# CS 415
+
+code, assignments & stuff
+
+## BOUNTY $$ BOUNTY $$ BOUNTY $$
+
+find a bug
+fix a bug
+pull request
+request accepted
+PROFIT!!!
+
+for realz
+
